@@ -1,6 +1,6 @@
 import time
 
-TICK_LENGTH_MILISECONDS = 20
+TICK_LENGTH_MILISECONDS = 40
 
 class Timer:
     def __init__(self):
